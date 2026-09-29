@@ -864,7 +864,7 @@ h1 span:nth-child(7) {
 .clippath1 {
     width: 350px;
     height: 300px;
-    background-image: url(./Global.png);
+    background-image: url("./Global.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1162,7 +1162,6 @@ h1 span:nth-child(7) {
     .overall-home {
         width: 100%;
         height: 70vh;
-        flex-direction: column;
     }
 
     .homecontent {
@@ -1170,12 +1169,12 @@ h1 span:nth-child(7) {
         font-size: 26px;
         position: relative;
         top: 133px;
-        margin-top: -30px;
+        margin-top: -206px;
     }
 
     .image {
         height: 300px;
-        left: -60px;
+        left: -140px;
     }
 
     .homecontent h3 {
@@ -1187,7 +1186,7 @@ h1 span:nth-child(7) {
     }
 
     .homecontent p {
-        font-size: 18px;
+        font-size: 20px;
         line-height: 1.5;
     }
 
